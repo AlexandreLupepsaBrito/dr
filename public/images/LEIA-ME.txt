@@ -1,0 +1,42 @@
+FOTOGRAFIAS DO SITE — Dra. Fernanda Fabiani
+============================================
+
+Salve cada foto NESTA pasta com EXATAMENTE o nome abaixo.
+Não é preciso mexer no código: assim que o arquivo existir, ele substitui
+o espaço reservado automaticamente. (Formato .jpg; para usar .webp, troque
+a extensão também no código.)
+
+PRIMEIRA DOBRA
+  hero-medica.jpg ........................ retrato vertical 4:5 (~1200x1500)
+
+SOBRE
+  sobre-medica-01.jpg .................... vertical 4:5 (~1000x1250)
+  sobre-medica-02.jpg .................... quadrada 1:1 (~800x800)
+
+PROCEDIMENTOS (horizontal 3:2, ~1200x800)
+  procedimento-01-blefaroplastia.jpg
+  procedimento-02-castanhares.jpg
+  procedimento-03-lipofilling.jpg
+  procedimento-04-lifting-cervical.jpg
+  procedimento-05-laser-co2.jpg
+  procedimento-06-bioestimuladores.jpg
+  procedimento-07-toxina-botulinica.jpg
+  procedimento-08-hifu.jpg
+  procedimento-09-orelha-rasgada.jpg
+  procedimento-10-unha-encravada.jpg
+  procedimento-11-biopsias.jpg
+  procedimento-12-colecistectomia.jpg
+  procedimento-13-herniorrafia.jpg
+
+CLÍNICA
+  clinica-01.jpg ......................... horizontal 16:10 (~1600x1000) — recepção/fachada
+  clinica-02.jpg ......................... vertical 4:5 (~900x1125) — consultório
+  clinica-03.jpg ......................... vertical 4:5 (~900x1125) — sala de procedimentos
+
+REDES SOCIAIS (compartilhamento)
+  og-image.jpg ........................... 1200x630
+
+Dicas
+- Comprima as fotos (ex.: squoosh.app) para que fiquem com menos de 300 KB.
+- Atenção à Resolução CFM nº 2.336/2023: não use fotos de "antes e depois"
+  nem imagens de pacientes sem verificar as regras e ter autorização por escrito.
